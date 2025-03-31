@@ -7,15 +7,15 @@
 
 ## Подключение
 
-Скачать style-bespoke-scroll-bar.css и js-bespoke-scroll-bar.js.
+Скачать style-bespoke-scroll-bar-1.0.css и js-bespoke-scroll-bar-1.0.js.
 
 Стили необходимо размести в блоке `<head>` в самом конце списка стилей:    
 ```html
-<link rel="stylesheet" href="files/style-bespoke-scroll-bar.css">
+<link rel="stylesheet" href="files/style-bespoke-scroll-bar-1.0.css">
 ```
 Подключение скрипта сделать перед закрывающим тегом `<body>`, но так, чтобы код для подключения был ниже:
 ```html
-<script src="js/js-bespoke-scroll-bar.js"></script>
+<script src="js/js-bespoke-scroll-bar-1.0.js"></script>
 ```
 
 ## Инициализация
